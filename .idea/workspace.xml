@@ -5,48 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="caf958e3-2c8d-4230-9d74-25bb4ffb1964" name="Changes" comment="Primer commit del proyecto tp1">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ejer03/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ejer03/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ejer03/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ejer03/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ejer03/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ejer03/ejer03.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ejer03/src/Libro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ejer03/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ejer1/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ejer1/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ejer1/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ejer1/.idea/modules.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/ejer1/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ejer1/src/Estudiante.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ejer1/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ejer1/tp1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ejer2/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ejer2/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ejer2/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ejer2/.idea/modules.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/ejer2/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ejer2/ejer2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ejer2/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ejer2/src/Mascota.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ejer4/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ejer4/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ejer4/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ejer4/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ejer4/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ejer4/ejer4.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ejer4/src/Gallina.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ejer4/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ejer5/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ejer5/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ejer5/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ejer5/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ejer5/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ejer5/ejer5.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ejer5/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ejer5/src/NaveEspacial.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,6 +52,15 @@
       <option name="presentableId" value="Default" />
       <updated>1747406413038</updated>
     </task>
+    <task id="LOCAL-00001" summary="Primer commit del proyecto tp1">
+      <option name="closed" value="true" />
+      <created>1747497881995</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1747497881995</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
